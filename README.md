@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I am Vaibhav 👋
 
-<!--
-**LuckyCrack/LuckyCrack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here's Somthing About Me.
 
-Here are some ideas to get you started:
+- 💻 Currently working on my own Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Learning more about Web Development Everyday.
+
+- 🎓 Education:
+     * Pursuing B.Tech CSE 
+     * Lovely Professional University 
+     * Expected graduation date 2022
+     
+- 🤔 Good Knowledge about:
+     * HTML
+     * CSS
+     * JavaScript
+     * C++
+     * C# (Unity3D)
+     
+- 📫 How to reach me: [Email](vaibhavnanda2000gmail.com)
+
+- ⚡ Fun fact: I Love to Develop Games🎮  and Make Music🎹 in my free time
