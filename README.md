@@ -23,4 +23,4 @@
 
 - ⚡ Fun fact: I Love to Develop Games🎮  and Make Music🎹 in my free time.
 
-- 🕹 [My Google Play Store](https://play.google.com/store/apps/developer?id=VnStuff+Studios+Inc.)
+- 🕹 Find me On [Google Play Store](https://play.google.com/store/apps/developer?id=VnStuff+Studios+Inc.)
