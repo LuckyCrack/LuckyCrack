@@ -20,6 +20,6 @@
      
 - 📫 How to reach me: [Email](vaibhavnanda2000gmail.com)
 
-- ⚡ Fun fact: I Love to Develop Games🎮  and Make Music🎹 in my free time
+- ⚡ Fun fact: I Love to Develop Games🎮  and Make Music🎹 in my free time.
 
 - 🕹 [My Google Play Store](https://play.google.com/store/apps/developer?id=VnStuff+Studios+Inc.)
