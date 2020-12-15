@@ -19,7 +19,7 @@
      * C# (Unity3D)
      * Java
      
-- 📫 How to reach me: [Email](vaibhavnanda2000gmail.com)
+- 📫 Reach me through [Email](vaibhavnanda2000gmail.com)
 
 - ⚡ Fun fact: I Love to Develop Apps/Games🎮  and Make Music🎹 in my free time.
 
