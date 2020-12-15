@@ -2,7 +2,7 @@
 
 ## Here's Somthing About Me.
 
-- 💻 Currently working on my own Website
+- 💻 Currently working on my own Website.
 
 - 📖 Learning more about Web Development Everyday.
 
@@ -19,7 +19,7 @@
      * C# (Unity3D)
      * Java
      
-- 📫 Reach me through [Email](vaibhavnanda2000gmail.com)
+- 📫 Reach me through [Email](vaibhavnanda2000gmail.com).
 
 - ⚡ Fun fact: I Love to Develop Apps/Games🎮  and Make Music🎹 in my free time.
 
