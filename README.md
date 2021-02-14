@@ -21,6 +21,6 @@
      
 - 📫 Reach me through [Email](vaibhavnanda2000gmail.com).
 
-- ⚡ Fun fact: I Love to Develop Apps/Games🎮  and Make Music🎹 in my free time.
+- ⚡ Fun fact: Developing Apps/Games🎮, Drawing  and Make Music🎹 are my Hobbies.
 
 - 🕹 Find me On [Google Play Store](https://play.google.com/store/apps/developer?id=VnStuff+Studios+Inc.)
