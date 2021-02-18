@@ -25,4 +25,4 @@
 
 - 🕹 Find me On [Google Play Store](https://play.google.com/store/apps/developer?id=VnStuff+Studios+Inc.)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=LuckyCrack&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris1111&show_icons=true&theme=tokyonight)
+[//]: # ![Github stats](https://github-readme-stats.vercel.app/api?username=LuckyCrack&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris1111&show_icons=true&theme=tokyonight)//
