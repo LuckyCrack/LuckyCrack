@@ -4,7 +4,7 @@
 
 - 💻 Currently working on my own Website.
 
-- 📖 Learning more about Web Development Everyday.
+- 📖 Learning new stuff Everyday.
 
 - 🎓 Education:
      * Pursuing B.Tech CSE 
