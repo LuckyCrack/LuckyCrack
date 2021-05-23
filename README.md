@@ -11,7 +11,7 @@
      * Lovely Professional University 
      * Expected graduation date 2022
      
-- 🤔 Good Knowledge about:
+- 🤔 Skills:
      * HTML
      * CSS
      * JavaScript
