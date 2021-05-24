@@ -18,6 +18,7 @@
      * C++
      * C# (Unity3D)
      * Java
+     * Python
      
 - 📫 Reach me through [Email](vaibhavnanda2000gmail.com).
 
