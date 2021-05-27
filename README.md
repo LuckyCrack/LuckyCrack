@@ -20,7 +20,7 @@
      * Java
      * Python
      
-- 🕸 Have a Look at my [Website](luckycrack.github.io/me), you won't regret it. 
+- 🕸 Have a Look at my [Website](rebrand.ly/VaibhavNanda), you won't regret it. 
 
 - 📫 Reach me through [Email](vaibhavnanda2000gmail.com).
 
