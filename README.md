@@ -2,7 +2,7 @@
 
 ## Here's Somthing About Me.
 
-- 💻 Currently working on my own [Website](luckycrack.github.io/me).
+- 💻 Currently Pursuing B.Tech CSE.
 
 - 📖 Learning new stuff Everyday.
 
@@ -20,6 +20,8 @@
      * Java
      * Python
      
+- 🕸 Have a Look at my [Website](luckycrack.github.io/me), you won't regret it. 
+
 - 📫 Reach me through [Email](vaibhavnanda2000gmail.com).
 
 - ⚡ Fun fact: Developing Apps/Games🎮, Drawing  and Make Music🎹 are my Hobbies.
