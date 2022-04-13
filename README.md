@@ -12,13 +12,11 @@
      * Expected graduation date 2022
      
 - 🤔 Skills:
-     * HTML
-     * CSS
+     * HTML, CSS
      * JavaScript
-     * C++
-     * C# (Unity3D)
-     * Java
-     * Python
+     * Laravel
+     * React, React Native
+     * Unity3D
      
 - 🕸 Have a Look at my [Website](https://rebrand.ly/VaibhavNanda), you won't regret it. 
 
