@@ -15,7 +15,6 @@
      * HTML, CSS
      * JavaScript
      * Laravel
-     * Design & Development
      * React, React Native
      * Unity3D
      * Adobe XD
