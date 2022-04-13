@@ -15,8 +15,10 @@
      * HTML, CSS
      * JavaScript
      * Laravel
+     * Design & Development
      * React, React Native
      * Unity3D
+     * Adobe XD
      
 - 🕸 Have a Look at my [Website](https://rebrand.ly/VaibhavNanda), you won't regret it. 
 
