@@ -12,6 +12,7 @@
      * Expected graduation date 2022
      
 - 🤔 Skills:
+     * C++
      * HTML, CSS
      * JavaScript
      * Laravel
